@@ -12,10 +12,9 @@ const greeting = {
   username: 'Vignesh Ramakrishnan',
   title: "Hi all, I'm Vignesh",
   subTitle: emoji(
-    'A passionate Developer Support Engineer 🚀'
+    'A passionate Engineer 🚀'
   ),
-  resumeLink:
-    '',
+  resumeLink: 'https://testvignesh.sfo2.cdn.digitaloceanspaces.com/Vignesh_Ramakrishnan_Resume.pdf',
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
