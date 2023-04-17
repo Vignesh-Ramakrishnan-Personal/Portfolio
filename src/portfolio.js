@@ -148,7 +148,7 @@ const workExperiences = {
       role: 'Senior Developer Support Engineer',
       company: 'DigitalOcean',
       companylogo: 'https://testvignesh.sfo2.digitaloceanspaces.com/DigitalOcean.png',
-      date: 'November 2020  – Present',
+      date: 'November 2020  – September 2022',
       desc:
         'DigitalOcean, Inc. is an American cloud infrastructure provider headquartered in New York City with data centers worldwide. DigitalOcean provides developers cloud services that help to deploy and scale applications that run simultaneously on multiple computers.',
       descBullets: [
@@ -157,6 +157,25 @@ const workExperiences = {
         'Providing exceptional support for a growing number of products (Droplets, Load Balancers, Block Storage, Spaces)',
         'Working both collaboratively and independently with our support, product, and engineering teams',
         'Identifying, communicating, and documenting process and policy improvements',
+      ],
+    },{
+      role: 'Senior Technical Account Manager',
+      company: 'DigitalOcean',
+      companylogo: 'https://testvignesh.sfo2.digitaloceanspaces.com/DigitalOcean.png',
+      date: 'October 2022  – Present',
+      desc:
+        'DigitalOcean, Inc. is an American cloud infrastructure provider headquartered in New York City with data centers worldwide. DigitalOcean provides developers cloud services that help to deploy and scale applications that run simultaneously on multiple computers.',
+      descBullets: [
+        'Provide the technical relationship management for all assigned accounts, by learning about and documenting each customer’s solution',
+        'Develop deep expertise on the DigitalOcean product portfolio and the evolving Cloud landscape',
+        'Provide technical consultation and guidance on best practices in a way that both technical and non-technical decision-makers can understand the value of DigitalOcean’s offerings',
+        'Proactively notify and assist customers with change management',
+        'Work directly with Customer Success to ensure expansion and retention of businesses as they build on top of our cloud.',
+        'Liaise with Engineering and Support teams to ensure customer escalations and obstacles to growth are resolved in a timely fashion.',
+        'Advocate for the voice of the customer in order to overcome adoption blockers and drive new feature development',
+        'Work both independently and collaboratively with a Global team of highly talented Technical Account Managers',
+        'Proactively notify and assist customers with change management',
+        'Collaborate across multiple functions within DigitalOcean, such as: Solutions Engineers, Customer Success Managers, Business Development Representatives, and Sales Account Executives',
       ],
     },
   ],
