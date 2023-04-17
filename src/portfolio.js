@@ -35,7 +35,7 @@ const skillsSection = {
   subTitle: 'CRAZY ENGINEER SUPPORTING EVERY TECH STACK',
   skills: [
     emoji(
-      '⚡ Support customers deploying applications in DigitalOcean Platform. Specialized in Storage - Block and Object Storage',
+      '⚡  Working closely with the customer to work through technical obstacles, enable the adoption of DigitalOcean products, and work cross-functionally with Product, Engineering, and Support teams to advocate for the voice of the customer.',
     ),
   ],
 
